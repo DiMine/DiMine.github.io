@@ -33,64 +33,64 @@ Says that the prefix is >
 Use code  
 Triggers the gfuel code thing
  
-!bored
+!bored  
 Spam pogpega
  
-FRICK
+FRICK  
 1 in 5 chance to frick soran (only works for soran)
   
-Get 20% off Manscaped with code 
+Get 20% off Manscaped with code  
 Same as the gfuel thing
  
-Pogpega /
+Pogpega /  
 1 in 3 chance to say Pogpega / back
  
-Boolin ?
+Boolin ?  
 1 in 3 chance to bool (only works for mrdutchboi)
  
 &gt;maxfarm  
 Sends the max amount of pogpegas in a single message
  
-!pull
+!pull  
 1 in 15 chance to pull on these nuts lmao gottem
  
-!skin
+!skin  
 1 in 10 chance to call out the skin frogs
  
 &gt;repeat {insert text here}  
 Repeats the specified text
  
-!roll
+!roll  
 1 in 15 chance to roll on these nuts lmao gottem
  
 &gt;online  
 Says whether or not ed is online
  
-!cock (or >cock)
+!cock (or >cock)  
 Reveal the length of eds cock
  
-@homies
+@homies  
 1 in 20 chance to say PINGED
  
 &gt;rice  
 no you meant !rice
  
-&gt;ping
+&gt;ping  
 If 2 seconds go by and the pinger bot hasnt said anything, the main bot will say that I am asleep.
  
  
  
-------PINGER BOT------
+------PINGER BOT------  
 If enough partly consecutive messages contain either Pog, I WAS HERE, or KEKWait, I will be told there is a pog moment on stream (it also gets triggered when 40+ subs are gifted at once because streamelements says PogU which contains Pog)
  
-&gt;ping {message}
+&gt;ping {message}  
 Sends me a desktop notification with the specified message
  
-Use code
+Use code  
 the gfuel thing (only works with streamelements when ed is offline)
  
  
  
-------BOOLIN BOT------
-Half the time this bot isnt even on, and it only has one trigger.
+------BOOLIN BOT------  
+Half the time this bot isnt even on, and it only has one trigger.  
 If MrDutchBoi sends a message that contains "Boolin ?" the bot will wait 3 seconds then say Boolin
