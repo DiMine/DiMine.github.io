@@ -1,5 +1,5 @@
 ![Pogpega](https://dimine.s-ul.eu/Pogpega/gSsAdHaL)
-<style>body {background-color: black;}</style>
+<style>body {background-color: black; color: white;}</style>
 
 ------MAIN BOT------  
 All of the commands work with Pogpega, Pogpega IceCold, Pogpega SoSnowy, Pogpega  IceCold at the beginning of the message.
