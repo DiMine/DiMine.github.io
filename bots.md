@@ -1,5 +1,5 @@
 ![Pogpega](https://dimine.s-ul.eu/Pogpega/gSsAdHaL)
-<style>body {background-color: black; color: white;}</style>
+<style>body {background-color: grey; color: white;}</style>
 
 ------MAIN BOT------  
 All of the commands work with Pogpega, Pogpega IceCold, Pogpega SoSnowy, Pogpega  IceCold at the beginning of the message.
@@ -16,8 +16,8 @@ Explains how the led works
 &gt;led on|off|status  
 Turns the led on or off, or says whether the led is currently on or off  
   
-&gt;led rgb <color>
-Changes the color of the RGB LED  
+&gt;led rgb <color>  
+Changes the color of the RGB LED   
 Valid inputs are red, green, blue, white, yellow, purple, teal, off  
   
   

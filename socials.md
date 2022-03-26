@@ -13,10 +13,12 @@ Twitch
 [ThatOneBotWhoPingsPogpega](https://www.twitch.tv/thatonebotwhopingspogpega)  
 [ThatOneGuyWhoSpamsBoolin](https://www.twitch.tv/thatoneguywhospamsboolin)  
 [ThatGuyWhoSpamsChatting](https://www.twitch.tv/thatguywhospamschatting)  
+[ThatOneBotWhoBanksPogpega](https://www.twitch.tv/thatonebotwhobankspogpega)  
+[ThatOneBotWhoCopiesPastas](https://www.twitch.tv/thatonebotwhocopiespastas)  
   
 Discord  
 DiMine#0704  
-+6 alt accounts
++6 alt accounts  
 
 Twitter  
 [@DiMine0704](https://twitter.com/DiMine0704)  
