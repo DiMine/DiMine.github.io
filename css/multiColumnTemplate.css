@@ -31,7 +31,7 @@
 	margin-top: 0px;
 }
 .columns {
-	width: 25%;
+	width: 50%;
 	float: left;
 	font-family: "Source Sans Pro";
 	color: #A5A5A5;
@@ -426,9 +426,9 @@ body {
 @media (min-width: 1001px) {
 }
 .thumbnail {
-	width: 100px;
-	border-radius: 200px;
-	height: 100px;
+	width: 50%;
+	border-radius: 10px;
+	height: 50%;
 	margin-left: auto;
 }
 .thumbnail_align {
