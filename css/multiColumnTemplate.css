@@ -1,4 +1,24 @@
 @charset "UTF-8";
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
 .container {
 	background-color: #2F4F4F;
 	width: 90%;

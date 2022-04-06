@@ -1,4 +1,28 @@
-<style>body {background-color: DarkSlateGray; color: white;}</style>
+<style>
+body {
+background-color: DarkSlateGray;
+color: white;
+}
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+</style>
 # Pogpega Variants
 ## Pogpega  
 The original Pogpega.  

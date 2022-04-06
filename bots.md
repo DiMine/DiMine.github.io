@@ -1,4 +1,28 @@
-<style>body {background-color: DarkSlateGray; color: white;}</style>
+<style>
+body {
+background-color: DarkSlateGray;
+color: white;
+}
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+</style>
 
 # MAIN BOT
 All of the commands work with Pogpega, Pogpega IceCold, Pogpega SoSnowy, Pogpega  IceCold at the beginning of the message.
@@ -12,7 +36,7 @@ If you see the bot respond to a command in online chat, please tell a mod to tim
 There are 4 LEDs connected to my pi:  
 - Blue - Lights up when BTMC is live  
 - Red - Lights up for 5 seconds when I get pinged using >ping  
-- Green - Controlled by &gt;led on|off  
+- Green - Controlled by &gt;led on and &gt;led off  
 - RGB - Controlled by &gt;led rgb {color}  
 <br>
 
