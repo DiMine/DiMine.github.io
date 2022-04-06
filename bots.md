@@ -9,11 +9,11 @@ If you see the bot respond to a command in online chat, please tell a mod to tim
  
  
 ### LED COMMANDS (these work in online chat but the bot wont say anything) 
-There are 4 LEDs connected to my pi:
-- Blue - Lights up when BTMC is live
-- Red - Lights up for 5 seconds when I get pinged using >ping
-- Green - Controlled by >led on|off
-- RGB - Controlled by >led rgb {color}
+There are 4 LEDs connected to my pi:  
+- Blue - Lights up when BTMC is live  
+- Red - Lights up for 5 seconds when I get pinged using >ping  
+- Green - Controlled by &gt;led on|off  
+- RGB - Controlled by &gt;led rgb {color}  
 <br>
 
 #### &gt;led  
