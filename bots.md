@@ -5,17 +5,17 @@ color: white;
 }
 /* unvisited link */
 a:link {
-  color: white;
+  color: whitesmoke;
 }
 
 /* visited link */
 a:visited {
-  color: white;
+  color: snow;
 }
 
 /* mouse over link */
 a:hover {
-  color: white;
+  color: ghostwhite;
 }
 
 /* selected link */
