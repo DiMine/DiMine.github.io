@@ -1,5 +1,4 @@
-![Pogpega](https://dimine.s-ul.eu/Pogpega/gSsAdHaL)
-<style>body {background-color: black; color: white;}</style>
+<style>body {background-color: DarkSlateGray; color: white;}</style>
 # Pogpega Variants
 ## Pogpega  
 The original Pogpega.  
