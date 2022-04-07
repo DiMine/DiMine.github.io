@@ -23,6 +23,8 @@ a:active {
   color: white;
 }
 </style>
+<title>Messages</title>
+<link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
 
 # MESSAGES SENT WITHOUT POGPEGA
 

@@ -23,6 +23,8 @@ a:active {
   color: white;
 }
 </style>
+<title>About</title>
+<link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
 
 ![Pogpega](https://dimine.s-ul.eu/Pogpega/gSsAdHaL)
 insert about me stuff here

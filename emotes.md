@@ -23,7 +23,8 @@ a:active {
   color: white;
 }
 </style>
-
+<title>Emotes</title>
+<link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
 # Pogpega Variants
 ## Pogpega  
 The original Pogpega.  

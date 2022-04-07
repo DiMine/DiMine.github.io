@@ -23,6 +23,8 @@ a:active {
   color: white;
 }
 </style>
+<title>Socials</title>
+<link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
 
 # Socials  
 

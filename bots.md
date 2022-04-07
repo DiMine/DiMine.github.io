@@ -23,6 +23,8 @@ a:active {
   color: white;
 }
 </style>
+<title>Bots</title>
+<link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
 
 # MAIN BOT
 All of the commands work with Pogpega, Pogpega IceCold, Pogpega SoSnowy, Pogpega  IceCold at the beginning of the message.
