@@ -41,6 +41,7 @@ a:active {
 [ThatGuyWhoSpamsChatting](https://www.twitch.tv/thatguywhospamschatting)  
 [ThatOneBotWhoBanksPogpega](https://www.twitch.tv/thatonebotwhobankspogpega)  
 [ThatOneBotWhoCopiesPastas](https://www.twitch.tv/thatonebotwhocopiespastas)  
+[ThatOneBotWhoStartPogpega](https://www.twitch.tv/thatonebotwhostartpogpega)  
   
 ### Discord  
 DiMine#0704  

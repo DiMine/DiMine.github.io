@@ -105,18 +105,47 @@ Reveal the length of eds cock
 #### @homies  
 1 in 20 chance to say PINGED
  
+#### &gt;homies  
+Don't have chatterino homies? Follow the link to get it.  
+  
 #### &gt;rice  
 no you meant !rice
  
+#### !stoic  
+![reeferSad](https://cdn.betterttv.net/emote/5fc5358a0adab74618586967/2x) so ture (only works for mods)  
+  
 #### &gt;ping  
 If 2 seconds go by and the pinger bot hasnt said anything, the main bot will say that I am asleep.
 
 #### &gt;pogpegas  
 Tells you how many pogpegas you have.
 
-#### &gt;pogpegas {username}
-Tells you how many pogpegas the specified user has. Capitalization and the @ symbol aren't needed.
+#### &gt;pogpegas {username}  
+Tells you how many pogpegas the specified user has. Capitalization and the @ symbol aren't needed.  
+Pogpegas are a useless currency that the pogpegabot counts. Every Pogpega (the emote) sent will give +1 pogpega, and solving a wordle will give +50 pogpegas.
+  
+#### &gt;wordle  
+Start a game of wordle  
+  
+#### &gt;guess {5 letter word}  
+Guess a 5 letter word in wordle  
  
+#### &gt;emojify {insert text here}  
+Attempts to add emojis between words although it doesnt work that well  
+  
+#### &gt;translate {insert text here}  
+Puts the specified text through a translator in a bunch of different languages and back to english  
+  
+#### &gt;generate {insert text here}  
+Makes an AI generate text using the input as a starting point  
+  
+#### &gt;chat {insert text here}  
+Talk to cleverbot with the insert text here being your message  
+(This is currently broken and causes the bot to crash when used more than once, so its disabled)  
+  
+#### &gt;reset  
+Reset the chat history with cleverbot  
+  
 #### &gt;commands  
 Sends the link to this page
  
@@ -129,8 +158,25 @@ Sends me a desktop notification with the specified message
 #### Use code  
 the gfuel thing (only works with streamelements when ed is offline)
  
+  
+  
+# STARTER BOT  
+#### &gt;restart  
+If the PogpegaBot breaks, use this to restart it.  
+  
  
- 
+  
 # BOOLIN BOT
 Half the time this bot isnt even on, and it only has one trigger.  
 If MrDutchBoi sends a message that contains "Boolin ?" the bot will wait 3 seconds then say Boolin
+  
+  
+# COMING SOON if i ever get around to it  
+- The restart command doesn't show the output of the pogpegabot so i have to fix that somehow
+- Step counter
+- Counters for how many times each command has been used
+- Markov generator
+- Auto restart PogpegaBot when it breaks (and so the command isnt abused)
+- Gamba with Pogpegas
+- Temporary increase in pogpegas when the gfuel message shows up
+- Copypasta library
