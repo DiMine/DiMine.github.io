@@ -133,22 +133,71 @@ Guess a 5 letter word in wordle
 #### &gt;emojify {insert text here}  
 Attempts to add emojis between words although it doesnt work that well  
   
-#### &gt;translate {insert text here}  
+#### &gt;translate {2 letter language code (example: english = en)} {insert text here}  
+Translates the text to the language specified  
+  
+#### &gt;badtranslate {insert text here}  
 Puts the specified text through a translator in a bunch of different languages and back to english  
   
 #### &gt;generate {insert text here}  
 Makes an AI generate text using the input as a starting point  
   
 #### &gt;chat {insert text here}  
-Talk to cleverbot with the insert text here being your message  
-(This is currently broken and causes the bot to crash when used more than once, so its disabled)  
+Talk to chatterbot with the insert text here being what it sees (this bot almost never gives cohesive responses and has no message history)  
+  
+#### &gt;cbot {insert text here}  
+Talk to cleverbot with the "insert text here" being what it sees  
   
 #### &gt;reset  
 Reset the chat history with cleverbot  
   
+#### &gt;servo {number from 500-2500}  
+Make the servo motor connected to my pi rotate to the specified point
+
+#### &gt;servo location  
+Says the current angular location of the servo
+
+#### &gt;steps  
+Says how many steps I have gotten today  
+  
+#### &gt;calories  
+Says how many calories I have burned today  
+  
+#### &gt;sleep  
+Says how much sleep I got last night  
+
+#### &gt;status  
+Sends a message that I can specify and change  
+  
+#### &gt;pyramid {number from 2-6}  
+Just don't. (also it only works when the bot is a mod)  
+  
 #### &gt;commands  
-Sends the link to this page
- 
+Sends the link to this page  
+
+### osu! COMMANDS  
+These commands interact with the owo discord bot and can get osu stats  
+
+#### &gt;link  
+Says which (if any) osu username is linked to the twitch user  
+
+#### &gt;link {username}  
+Link the specified osu username to the twitch user who used the command  
+  
+#### &gt;rs {username (optional)}  
+Shows the most recent score for the player  
+
+#### &gt;c {username (optional)}  
+Shows the player's score on the most recently accessed map  
+  
+#### &gt;osutop {username (optional)}  
+Shows the player's top pp plays  
+  
+#### &gt;sc {username} {map link}  
+Shows the player's score on the specified map  
+  
+  
+  
 # PINGER BOT  
 If enough partly consecutive messages contain either Pog, I WAS HERE, or KEKWait, I will be told there is a pog moment on stream (it also gets triggered when 40+ subs are gifted at once because streamelements says PogU which contains Pog)
  
@@ -157,7 +206,7 @@ Sends me a desktop notification with the specified message
  
 #### Use code  
 the gfuel thing (only works with streamelements when ed is offline)
- 
+  
   
   
 # STARTER BOT  
