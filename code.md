@@ -1,4 +1,1 @@
----
-layout: forward
-target: https://github.com/DiMine/PogpegaBot
----
+<head><meta http-equiv="refresh" content="0; URL=https://github.com/DiMine/PogpegaBot" /></head>
