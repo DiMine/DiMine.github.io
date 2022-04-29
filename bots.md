@@ -211,8 +211,10 @@ the gfuel thing (only works with streamelements when ed is offline)
   
 # STARTER BOT  
 #### &gt;restart  
-If the PogpegaBot breaks, use this to restart it.  
+If the PogpegaBot breaks, use this to restart it. (also this is disabled because the part that crashes is a different script and everything in this bot is in try catches so it hopefully shouldnt break :COPIUM:  
   
+#### &gt;shock  
+Restarts the script for the bot that triggers the osu bot  
  
   
 # BOOLIN BOT
@@ -221,11 +223,17 @@ If MrDutchBoi sends a message that contains "Boolin ?" the bot will wait 3 secon
   
   
 # COMING SOON if i ever get around to it  
-- The restart command doesn't show the output of the pogpegabot so i have to fix that somehow
-- Step counter
+- Update commands list
+- the shock command for rs only works 5% of the time so i have to fix that somehow
 - Counters for how many times each command has been used
-- Markov generator
-- Auto restart PogpegaBot when it breaks (and so the command isnt abused)
+- Total pogpega count for the bot
+- Organize all commands alphabetically
+- Fix the if/else hell
 - Gamba with Pogpegas
-- Temporary increase in pogpegas when the gfuel message shows up
+- Temporary increase in pogpegas when the gfuel message shows up (but how to do it without decimals)
 - Copypasta library
+- Google search integration? (would be hard to moderate though)
+- Camera feed for leds and servo
+- Make the rgb led use full color spectrum (i think its possible i just dont know how)
+- Discord version of pogpegabot eventually
+- Chat logs

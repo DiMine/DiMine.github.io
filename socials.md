@@ -33,15 +33,11 @@ a:active {
   
 ### Twitch  
 [DiMine0704](https://www.twitch.tv/dimine0704) (main account for watching strim)  
-[DiMineosu](https://www.twitch.tv/dimineosu)  
 [ThatOneGuyWhoSpamsPogpega](https://www.twitch.tv/thatoneguywhospamspogpega) (main account for chatting ![Chatting](https://cdn.7tv.app/emote/60ef410f48cde2fcc3eb5caa/1x))  
-[ThatOneBotWhoSpamsPogpega](https://www.twitch.tv/thatonebotwhospamspogpega)  
-[ThatOneBotWhoPingsPogpega](https://www.twitch.tv/thatonebotwhopingspogpega)  
+[ThatOneBotWhoSpamsPogpega](https://www.twitch.tv/thatonebotwhospamspogpega) (PogpegaBot)  
+[ThatOneBotWhoPingsPogpega](https://www.twitch.tv/thatonebotwhopingspogpega) (PingerBot)  
 [ThatOneGuyWhoSpamsBoolin](https://www.twitch.tv/thatoneguywhospamsboolin)  
-[ThatGuyWhoSpamsChatting](https://www.twitch.tv/thatguywhospamschatting)  
-[ThatOneBotWhoBanksPogpega](https://www.twitch.tv/thatonebotwhobankspogpega)  
-[ThatOneBotWhoCopiesPastas](https://www.twitch.tv/thatonebotwhocopiespastas)  
-[ThatOneBotWhoStartPogpega](https://www.twitch.tv/thatonebotwhostartpogpega)  
+[ThatOneBotWhoStartPogpega](https://www.twitch.tv/thatonebotwhostartpogpega) (StarterBot)  
   
 ### Discord  
 DiMine#0704  
