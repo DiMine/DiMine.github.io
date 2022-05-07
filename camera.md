@@ -1,14 +1,28 @@
-<script src="https://cdn.bootcss.com/flv.js/1.5.0/flv.min.js"></script>
-<video autoplay muted id="videoElement"></video>
-<script>
-    if (flvjs.isSupported()) {
-        var videoElement = document.getElementById('videoElement');
-        var flvPlayer = flvjs.createPlayer({
-            type: 'flv',
-            url: 'http://pogpega.duckdns.org:2727/live/test.flv'
-        });
-        flvPlayer.attachMediaElement(videoElement);
-        flvPlayer.load();
-        flvPlayer.play();
-    }
-</script>
+<style>
+body {
+background-color: DarkSlateGray;
+color: white;
+}
+/* unvisited link */
+a:link {
+  color: whitesmoke;
+}
+
+/* visited link */
+a:visited {
+  color: snow;
+}
+
+/* mouse over link */
+a:hover {
+  color: ghostwhite;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+</style>
+<title>Camera</title>
+<link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
+<iframe src="https://player.twitch.tv/?channel=thatonebotwhospamspogpega&parent=pogpe.ga" frameborder="0" allowfullscreen="true" autoplay="true" muted="true" scrolling="no" height="720" width="1280"></iframe>
