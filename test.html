@@ -35,8 +35,20 @@
     <h2 class="noDisplay">Main Content</h2>
     <article class="left_article">
       <h3>content heading</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      <script src="https://cdn.bootcss.com/flv.js/1.5.0/flv.min.js"></script>
+      <video autoplay muted id="videoElement"></video>
+      <script>
+          if (flvjs.isSupported()) {
+              var videoElement = document.getElementById('videoElement');
+              var flvPlayer = flvjs.createPlayer({
+                  type: 'flv',
+                  url: 'http://pogpega.duckdns.org:2727/live/test.flv'
+              });
+              flvPlayer.attachMediaElement(videoElement);
+              flvPlayer.load();
+              flvPlayer.play();
+          }
+      </script>
     </article>
     <aside class="right_article"><img src="https://dimine.s-ul.eu/Pogpega/gSsAdHaL" alt="" width="400" height="200" class="placeholder"/> </aside>
   </section>
