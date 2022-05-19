@@ -112,7 +112,7 @@ Don't have chatterino homies? Follow the link to get it.
 no you meant !rice
  
 #### !stoic  
-![reeferSad](https://cdn.betterttv.net/emote/5fc5358a0adab74618586967/2x) so ture (only works for mods)  
+![reeferSad](https://cdn.betterttv.net/emote/5fc5358a0adab74618586967/2x) so ture  
   
 #### &gt;ping  
 If 2 seconds go by and the pinger bot hasnt said anything, the main bot will say that I am asleep.
@@ -169,8 +169,47 @@ Says how much sleep I got last night
 #### &gt;status  
 Sends a message that I can specify and change  
   
-#### &gt;pyramid {number from 2-6}  
-Just don't. (also it only works when the bot is a mod)  
+#### &gt;pyramid {number from 2-6} {text to pyramidize}  
+Makes a pyramid. If no text is specified will default to Pogpega. (also it only works when the bot is a mod)  
+
+#### &gt;cam or &gt;camera  
+Sends instructions for how to watch the camera's rtsp stream.  
+  
+#### &gt;code  
+Sends the shortened link to the bot's github repo  
+  
+#### &gt;deadchat 
+LMAO. DEAD CHAT?  
+
+#### &gt;dm {text}  
+DMs me on discord with the message and twitch username  
+  
+#### &gt;dm2 {text}  
+Same as &gt;dm but dms NekoPavel instead of me  
+  
+#### &gt;follow  
+Checks if you (or the username you specify) is following me on twitch  
+
+#### &gt;give {username} {amount}  
+Gives the specified user the specified amount of pogpegas. Works with or without the @ and any capitalization.  
+  
+#### &gt;pasta {new|print|random|search}  
+Do stuff with the copypasta library. With new, random, and search you need to specify extra text to do stuff.  
+  
+#### &gt;remind {time} {message}  
+Pings you with the specified message after {time} seconds.  
+  
+#### &gt;similarity "{text}" "{more text}"  
+Compares the similarity of the first text to the second text. Will break if the text has quotation marks within it.  
+Also requires quotation marks even if its just one word.  
+  
+#### &gt;tab  
+Reminds you or the specified user (requires the @ symbol) that they can use the tab button to auto-complete emotes.  
+  
+#### &gt;toxic {text}  
+Uses an api to determine the toxicity of the specified text.  
+  
+
   
 #### &gt;commands  
 Sends the link to this page  
@@ -223,17 +262,14 @@ If MrDutchBoi sends a message that contains "Boolin ?" the bot will wait 3 secon
   
   
 # COMING SOON if i ever get around to it  
-- Update commands list
-- the shock command for rs only works 5% of the time so i have to fix that somehow
+- Organize the commands on this page alphabetically  
+- Put the led/servo commands into a separate script so the main script can run without sudo  
 - Counters for how many times each command has been used
-- Total pogpega count for the bot
-- Organize all commands alphabetically
-- Fix the if/else hell
+- Total pogpega count for the bot (but i need someone's chatterino logs)
 - Gamba with Pogpegas
 - Temporary increase in pogpegas when the gfuel message shows up (but how to do it without decimals)
-- Copypasta library
+- Copypasta library (added, but still needs to have fuller functionality)
 - Google search integration? (would be hard to moderate though)
-- Camera feed for leds and servo
 - Make the rgb led use full color spectrum (i think its possible i just dont know how)
-- Discord version of pogpegabot eventually
+- Discord version of pogpegabot eventually (technically its already there i just need to add command triggers)
 - Chat logs
