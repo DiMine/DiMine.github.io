@@ -266,7 +266,7 @@ If MrDutchBoi sends a message that contains "Boolin ?" the bot will wait 3 secon
 - Put the led/servo commands into a separate script so the main script can run without sudo  
 - Counters for how many times each command has been used
 - Total pogpega count for the bot (but i need someone's chatterino logs)
-- Gamba with Pogpegas
+- Gamba with Pogpegas  
 - Temporary increase in pogpegas when the gfuel message shows up (but how to do it without decimals)
 - Copypasta library (added, but still needs to have fuller functionality)
 - Google search integration? (would be hard to moderate though)
