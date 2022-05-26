@@ -1,1 +1,1 @@
-<head><meta http-equiv="refresh" content="0; URL=https://github.com/DiMine/PogpegaBot" /></head>
+<head><meta http-equiv="refresh" content="0; URL=https://github.com/DiMine/PogpegaBot/blob/main/PogpegaBot.js" /></head>

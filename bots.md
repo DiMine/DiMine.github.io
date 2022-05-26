@@ -98,10 +98,7 @@ Repeats the specified text
  
 #### &gt;online  
 Says whether or not ed is online
- 
-#### !cock (or >cock)  
-Reveal the length of eds cock
- 
+  
 #### @homies  
 1 in 20 chance to say PINGED
  
