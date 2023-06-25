@@ -95,9 +95,6 @@ Attempts to add emojis between words although it doesnt work that well
 #### &gt;experiment  
 Checks an API to see the latest experiment by the Canadian government    
   
-#### &gt;experiment  
-Attempts to add emojis between words although it doesnt work that well  
-  
 #### &gt;follow (Currently broken)  
 Checks if you are following me on twitch  
   
@@ -253,7 +250,7 @@ Spam pogpega
 Says that the prefix is >  
   
 #### !stoic  
-![reeferSad](https://cdn.betterttv.net/emote/5fc5358a0adab74618586967/2x) so ture  
+![reeferSad](https://cdn.7tv.app/emote/62bc8c37a9acb46ce56f0f07/2x.gif) so ture  
   
   
   
