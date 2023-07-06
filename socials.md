@@ -40,9 +40,13 @@ a:active {
 [ThatOneBotWhoStartPogpega](https://www.twitch.tv/thatonebotwhostartpogpega) (StarterBot)  
   
 ### Discord  
-DiMine#0704  
+DiMine  
 +6 alt accounts  
-
+  
+### Mastodon  
+<a rel="me" href="https://mastodon.social/@DiMine">DiMine</a>
+<a rel="me" href="https://mastodon.social/@Pogpega">Pogpega</a>
+  
 ### Twitter  
 [@DiMine0704](https://twitter.com/DiMine0704)  
 [@DiMineosu](https://twitter.com/DiMineosu)  
