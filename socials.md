@@ -33,7 +33,7 @@ a:active {
   
 ### Twitch  
 [DiMine0704](https://www.twitch.tv/dimine0704) (main account for watching strim)  
-[ThatOneGuyWhoSpamsPogpega](https://www.twitch.tv/thatoneguywhospamspogpega) (main account for chatting ![Chatting](https://cdn.7tv.app/emote/60ef410f48cde2fcc3eb5caa/1x))  
+[ThatOneGuyWhoSpamsPogpega](https://www.twitch.tv/thatoneguywhospamspogpega) (main account for chatting ![Chatting](https://cdn.7tv.app/emote/60ef410f48cde2fcc3eb5caa/1x.gif))  
 [ThatOneBotWhoSpamsPogpega](https://www.twitch.tv/thatonebotwhospamspogpega) (PogpegaBot)  
 [ThatOneBotWhoPingsPogpega](https://www.twitch.tv/thatonebotwhopingspogpega) (PingerBot)  
 [ThatOneGuyWhoSpamsBoolin](https://www.twitch.tv/thatoneguywhospamsboolin)  
@@ -44,8 +44,8 @@ DiMine
 +6 alt accounts  
   
 ### Mastodon  
-<a rel="me" href="https://mastodon.social/@DiMine">DiMine</a>
-<a rel="me" href="https://mastodon.social/@Pogpega">Pogpega</a>
+<a rel="me" href="https://mastodon.social/@DiMine">DiMine</a>  
+<a rel="me" href="https://mastodon.social/@Pogpega">Pogpega</a>  
   
 ### Twitter  
 [@DiMine0704](https://twitter.com/DiMine0704)  
@@ -53,5 +53,5 @@ DiMine
 
 ### Email  
 I have like 30 email accounts but the relavent ones are these  
-dimineosu@gmail.com or dimine@pogpe.ga  
-thatoneguywhospamspogpega@gmail.com or pogpega@pogpe.ga or thatoneguywhospams@pogpe.ga  
+dimineosu@gmail.com  
+thatoneguywhospamspogpega@gmail.com  
