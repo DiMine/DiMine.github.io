@@ -25,6 +25,8 @@ a:active {
 </style>
 <title>Socials</title>
 <link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
+<meta name="description" content="ThatOneGuyWhoSpamsPogpega's links to social media">
+<meta content="Social Media" property="og:title" />
 
 # Socials  
 

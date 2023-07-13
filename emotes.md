@@ -25,6 +25,8 @@ a:active {
 </style>
 <title>Emotes</title>
 <link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
+<meta name="description" content="A list of Pogpega emote variants">
+<meta content="Pogpega Emotes" property="og:title" />
 # Pogpega Variants
 ## Pogpega  
 The original Pogpega.  

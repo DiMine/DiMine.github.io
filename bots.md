@@ -25,6 +25,8 @@ a:active {
 </style>
 <title>Bots</title>
 <link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
+<meta name="description" content="Commands for ThatOneGuyWhoSpamsPogpega's PogpegaBots">
+<meta content="PogpegaBot Commands" property="og:title" />
 
 # MAIN BOT
 All of the commands work with Pogpega, Pogpega IceCold, Pogpega SoSnowy, Pogpega  IceCold at the beginning of the message.

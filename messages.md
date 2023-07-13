@@ -25,6 +25,9 @@ a:active {
 </style>
 <title>Messages</title>
 <link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
+<meta name="description" content="All the messages sent by ThatOneGuyWhoSpamsPogpega that do not contain Pogpega">
+<meta content="Pogpegaless Messages" property="og:title" />
+
 
 # MESSAGES SENT WITHOUT POGPEGA
 

@@ -25,6 +25,8 @@ a:active {
 </style>
 <title>Stuff</title>
 <link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
+<meta name="description" content="Stuff encountered in the wilderness of BTMC's twitch chat">
+<meta content="Pogpega Stuff" property="og:title" />
 
 # Other stuff  
 insert images here

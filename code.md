@@ -1,1 +1,2 @@
 <head><meta http-equiv="refresh" content="0; URL=https://github.com/DiMine/PogpegaBot/blob/main/PogpegaBot.js" /></head>
+If you don't get redirected automatically, go to https://github.com/DiMine/PogpegaBot/blob/main/PogpegaBot.js

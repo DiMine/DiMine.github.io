@@ -25,6 +25,8 @@ a:active {
 </style>
 <title>How to see the camera</title>
 <link rel="shortcut icon" type="image/ico" href="Pogpega.ico"/>
+<meta name="description" content="Information on how to view ThatOneGuyWhoSpamsPogpega's RTSP stream">
+<meta content="RTSP Camera" property="og:title" />
 
 # HOW TO SEE THE CAMERA  
 I use an IP camera that makes an rtsp stream which can be accessed on vlc or some other rtsp player or something.  
