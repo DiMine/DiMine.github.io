@@ -28,5 +28,5 @@ a:active {
 <meta name="description" content="About ThatOneGuyWhoSpamsPogpega">
 <meta content="About ThatOneGuyWhoSpamsPogpega" property="og:title" />
 
-![Pogpega](https://dimine.s-ul.eu/Pogpega/gSsAdHaL)
+![Pogpega](Pogpega.png)
 insert about me stuff here
