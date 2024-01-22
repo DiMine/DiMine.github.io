@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4000" height="4000" viewBox="0 0 4000 4000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #502e1a;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #2ec5f7;
+      }
+    </style>
+  </defs>
+  <path id="Handle" class="cls-1" d="M2249.63,1519.4v2200h-500v-2200h500Z"/>
+  <path id="Blade_2" data-name="Blade 2" class="cls-2" d="M3217.47,649.988L210.455,1744.45l234.528,644.36L3452,1294.35Z"/>
+  <path id="Blade_1" data-name="Blade 1" class="cls-2" d="M783.531,650L3790.55,1744.46l-234.53,644.36L549,1294.36Z"/>
+  <path id="Inner_Circle" data-name="Inner Circle" class="cls-3" d="M2000,0C3104.57,0,4000,895.431,4000,2000S3104.57,4000,2000,4000,0,3104.57,0,2000,895.431,0,2000,0Zm0,500c828.43,0,1500,671.57,1500,1500S2828.43,3500,2000,3500,500,2828.43,500,2000,1171.57,500,2000,500Z"/>
+</svg>
